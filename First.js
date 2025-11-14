@@ -14,7 +14,9 @@
 // assignment: +=,**=
 
 // == it will compare the value without considering datatype
-// === it will compare the value without considering the datatype
+// === it will compare the value with considering the datatype
+
+// string method : lenght,charAt,concat,tolocateuppercase and lowercase , trim- star and end , repeat , search
 
 function hello() {
   console.log("my first function");
